@@ -1,4 +1,5 @@
 ## Carlos Vinicius Figueiredo Ribeiro
+**"Estagiário de metodologias e modelos energéticos**
 
 - ⚡ Hoje trabalho com planejamento energético
 - ⚡ Engenharia Elétrica - UFRJ
