@@ -26,13 +26,12 @@
 
 <img 
     align="left" 
-    alt="Julia" 
+    alt="Rust" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rus original.svg)"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"
 />
-
 
 <br/>
 <br/>
