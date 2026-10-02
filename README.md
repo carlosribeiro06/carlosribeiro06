@@ -1,7 +1,7 @@
 ## Carlos Vinicius Figueiredo Ribeiro
 
+- ⚡ Engenheiro de Modelagem e Desenvolvimento de Ferramentas Eletroenergéticas - ONS
 - ⚡ Planejamento energético
-- ⚡ Engenharia Elétrica - UFRJ
 
 ### 🤖 Linguagens e Tecnologias
 
